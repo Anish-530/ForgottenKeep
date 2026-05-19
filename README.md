@@ -90,7 +90,7 @@ Just Add This Line To Your Custom CSS
 • Changed the color of the `Screenshare` tab to match the theme.  
 • Changed the color of entire `ToolTip`, to match the theme. This can appear when you hover over channel's setting, or some kind of invite button.  
 
-## [v2.8]  
+## [v2.9]  
 `> Changed`  
 • Changed the Emoji viewer tray to look more good.  
 • Changed the Emoji in the Emoji viewer tray to look big instead of looking small.  
